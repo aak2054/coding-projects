@@ -1,4 +1,4 @@
-//Janeil and Anamo
+// Anamo and Janeil
 //This project is a STEM Quiz application that allows users to take a quiz with five questions from
 //either Science,Technology,Engineering or Mathematics subjects. The user will make a note of their choices, 
 //at the end the user will be able to check their answers base on the Correct Answers displayed for all questions. 
