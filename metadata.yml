@@ -1,0 +1,12 @@
+---
+:id: 120116131
+:submitters:
+- :name: Anamo Kisho
+  :email: aakish21@stlawu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-04-05 21:04:51.637776000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-04-05 14:04:51.637776000 Z
+:status: processed
+:score: 20.0
